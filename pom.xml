@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.adz1q.listcombobox/com.adz1q.listcombobox.HelloApplication</mainClass>
+                            <mainClass>com.adz1q.listcombobox/com.adz1q.listcombobox.Application</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
